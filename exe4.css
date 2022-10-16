@@ -1,0 +1,23 @@
+body {
+  background-color: lightseagreen;
+}
+
+header,
+footer {
+  color: whitesmoke;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+  width: 500px;
+  border-radius: 10%;
+  border-style: solid;
+  border-width: 1px;
+  margin: auto;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+div {
+  padding: 40px 20px;
+}
